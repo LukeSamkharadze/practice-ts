@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es2017",
+        "lib": ["dom", "es2017"],
+        "skipLibCheck": true
+    },
+    // "files": ["1.primitives/**/example-19-*.ts"],
+    "include": ["**/*"],
+}
